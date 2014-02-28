@@ -1,0 +1,4 @@
+
+Input file needs to be a minimum size so that we can embed data in it. (compare messageSize + wave header to inputFileSize)
+
+It is not possible to remove data stored using steganography.
