@@ -11,7 +11,6 @@ Please note that this is a work in progress and is incomplete for practical purp
 
 Screenshot
 ==========
-A sample screenshot of the application is given below.
 <img src="https://github.com/midhunhk/steganos/blob/master/java/Steganos/test/screenshot01.PNG" alt="screenshot" />
 
 Disclaimer
